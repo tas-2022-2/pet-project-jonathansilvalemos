@@ -1,4 +1,5 @@
 describe('DiariasController getAll()', () => {
+    
     it('Retorna uma lista de diárias de viagem', () => {
       const expectedDatabaseResponse = [{
         id: 1,
